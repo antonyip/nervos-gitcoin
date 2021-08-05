@@ -6,7 +6,7 @@ Screenshots or video of your application running on Godwoken.
 ![image](https://user-images.githubusercontent.com/9086733/128366232-3ec01d86-2b14-476e-b21c-2ae60075ea37.png)
 
 Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.  
-```https://github.com/antonyip/blockchain-workshop/tree/godwoken-simple```
+```https://github.com/antonyip/blockchain-workshop/tree/godwoken-simple```  
 If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)  
 ```
 Deployed contract address: 0xC367Ad5fF12901b65BCc1Afed59644E75E36A36b  
